@@ -2,6 +2,7 @@
 
 ## 💻Conferences & Events
 
+- [Day of Shecurity](https://www.dayofshecurity.com)
 - [Grace Hopper Celebration](https://ghc.anitab.org)
 - [Harvard WECode](https://www.harvardwecode.com/about-wecode)
 - [League of Women Coders](http://lwc.tech/)
