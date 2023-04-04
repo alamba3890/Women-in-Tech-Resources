@@ -1,4 +1,4 @@
-# Resources for Women in Technology
+# Resources for Women in Technology & Cybersecurity
 
 ## 💻Conferences & Events
 
