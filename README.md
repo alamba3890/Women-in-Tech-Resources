@@ -7,6 +7,7 @@
 - [Harvard WECode](https://www.harvardwecode.com/about-wecode)
 - [League of Women Coders](http://lwc.tech/)
 - [Lesbians Who Tech & Allies Summit](https://lesbianswhotech.org/)
+- [The Diana Initiative](https://www.dianainitiative.org/)
 - [Out in Tech](https://outintech.com/)
 - [Women in Data Science](https://www.widsconference.org/)
 - [Women in Technology International](https://witi.com/)
@@ -30,10 +31,12 @@
 - [Black Girls CODE](https://www.blackgirlscode.com/)
 - [Girl Develop It](https://girldevelopit.com/)
 - [Hackbright Academy](https://hackbrightacademy.com/)
+- [NPower Inc](https://www.npower.org/)
 
 ## 🤝Community / Mentorship / Membership
 - [Black Girls CODE](https://www.blackgirlscode.com/)
 - [Girls Who Code](https://girlswhocode.com/)
+- [Girl Security](https://www.girlsecurity.org/)
 - [Mother Coders](http://www.mothercoders.org/)
 - [Opensource Diversity](https://opensourcediversity.org/)
 - [PyLadies](https://pyladies.com/)
